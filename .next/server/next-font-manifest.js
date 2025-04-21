@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/omar/dev/projects/SELF/presentation2/app/layout":["static/media/98118e9da63bcddd-s.p.ttf","static/media/2c00c297d3cdabf8-s.p.ttf","static/media/4291f48c2ea51320-s.p.ttf","static/media/bec6f0ae4ec11a25-s.p.ttf","static/media/e5a529162b798613-s.p.ttf"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
