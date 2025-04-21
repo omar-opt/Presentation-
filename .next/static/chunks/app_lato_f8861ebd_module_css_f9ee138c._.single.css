@@ -1,0 +1,59 @@
+/* [project]/app/lato_f8861ebd.module.css [app-client] (css) */
+@font-face {
+  font-family: lato;
+  src: url("../media/Lato_Black-s.p.15670c8b.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lato;
+  src: url("../media/Lato_Bold-s.p.6b1200b5.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lato;
+  src: url("../media/Lato_Regular-s.p.e6d540dc.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lato;
+  src: url("../media/Lato_Light-s.p.ff3c9777.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lato;
+  src: url("../media/Lato_Thin-s.p.a572f591.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lato Fallback;
+  src: local(Arial);
+  ascent-override: 100.88%;
+  descent-override: 21.77%;
+  line-gap-override: 0.0%;
+  size-adjust: 97.84%;
+}
+
+.lato_f8861ebd-module__gjVW1q__className {
+  font-family: lato, lato Fallback;
+}
+
+.lato_f8861ebd-module__gjVW1q__variable {
+  --font-lato: "lato", "lato Fallback";
+}
+
+/*# sourceMappingURL=app_lato_f8861ebd_module_css_f9ee138c._.single.css.map*/
