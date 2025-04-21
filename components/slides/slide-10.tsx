@@ -1,52 +1,3 @@
-// import { Database, Lock, Shield } from "lucide-react";
-// import * as motion from "motion/react-client";
-
-// export default function Slide10() {
-//   return (
-//     <>
-//       <motion.div
-//         initial={{ opacity: 0, y: 50 }}
-//         animate={{ opacity: 1, y: 0 }}
-//         transition={{ delay: 0.9, duration: 0.5 }}
-//         className="mt-12 flex max-w-4xl flex-wrap items-center justify-center gap-8"
-//       >
-//         <motion.div
-//           initial={{ scale: 0 }}
-//           animate={{ scale: 1 }}
-//           transition={{ delay: 1.1, type: "spring" }}
-//           className="flex h-24 w-24 items-center justify-center rounded-full bg-gradient-to-br from-cyan-500/20 to-cyan-700/20 backdrop-blur-sm"
-//         >
-//           <Lock className="h-12 w-12 text-cyan-400" />
-//         </motion.div>
-//         <motion.div
-//           initial={{ scale: 0 }}
-//           animate={{ scale: 1 }}
-//           transition={{ delay: 1.3, type: "spring" }}
-//           className="flex h-24 w-24 items-center justify-center rounded-full bg-gradient-to-br from-cyan-500/20 to-cyan-700/20 backdrop-blur-sm"
-//         >
-//           <Shield className="h-12 w-12 text-cyan-400" />
-//         </motion.div>
-//         <motion.div
-//           initial={{ scale: 0 }}
-//           animate={{ scale: 1 }}
-//           transition={{ delay: 1.5, type: "spring" }}
-//           className="flex h-24 w-24 items-center justify-center rounded-full bg-gradient-to-br from-cyan-500/20 to-cyan-700/20 backdrop-blur-sm"
-//         >
-//           <Database className="h-12 w-12 text-cyan-400" />
-//         </motion.div>
-//       </motion.div>
-//       <motion.div
-//         initial={{ opacity: 0 }}
-//         animate={{ opacity: 1 }}
-//         transition={{ delay: 1.7, duration: 0.5 }}
-//         className="mt-8 text-center text-gray-400"
-//       >
-//         <p>Thank you for your attention!</p>
-//         <p className="mt-2">Any questions?</p>
-//       </motion.div>
-//     </>
-//   );
-// }
 "use client";
 
 import { GithubIcon } from "lucide-react";
@@ -248,7 +199,7 @@ export default function ThankYouSlide() {
               <GithubIcon />
             </span>
             <Link
-              href={"https://github.com/omar-opt/presentation"}
+              href={"https://github.com/omar-opt/Presentation-"}
               className="text-lg text-white"
             >
               Presentation Link

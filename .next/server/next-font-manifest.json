@@ -1,14 +1,1 @@
-{
-  "app": {
-    "[project]/app/page": [
-      "static/media/Lato_Thin-s.p.a572f591.ttf",
-      "static/media/Lato_Light-s.p.ff3c9777.ttf",
-      "static/media/Lato_Regular-s.p.e6d540dc.ttf",
-      "static/media/Lato_Black-s.p.15670c8b.ttf",
-      "static/media/Lato_Bold-s.p.6b1200b5.ttf"
-    ]
-  },
-  "appUsingSizeAdjust": true,
-  "pages": {},
-  "pagesUsingSizeAdjust": false
-}
+{"pages":{},"app":{"/home/omar/dev/projects/SELF/presentation2/app/layout":["static/media/98118e9da63bcddd-s.p.ttf","static/media/2c00c297d3cdabf8-s.p.ttf","static/media/4291f48c2ea51320-s.p.ttf","static/media/bec6f0ae4ec11a25-s.p.ttf","static/media/e5a529162b798613-s.p.ttf"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}

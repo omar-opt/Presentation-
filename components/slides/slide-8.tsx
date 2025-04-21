@@ -127,9 +127,9 @@ export default function Slide8() {
         className="mt-10 max-w-4xl rounded-xl bg-gradient-to-r from-cyan-900/30 to-purple-900/30 p-6 text-center backdrop-blur-sm"
       >
         <p className="text-lg font-medium text-gray-200">
-          "Organizations that implement these practices and stay current with
-          emerging trends are better positioned to protect their data assets in
-          an evolving threat landscape."
+          &quot;Organizations that implement these practices and stay current
+          with emerging trends are better positioned to protect their data
+          assets in an evolving threat landscape.&quot;
         </p>
       </motion.div>
     </div>
